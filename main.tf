@@ -1,5 +1,5 @@
 # 2 repos with hardcoded names
-resource "github_repository" "example11" {
+resource "github_repository" "example12" {
   name        = "example11"
   description = "My awesome codebase"
 }
