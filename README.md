@@ -6,31 +6,31 @@
 -   [Personal GitHub token](https://github.com/settings/tokens)
 
 ### How to use it:
--   clone the repo
+1. clone the repo
 ```
 git clone https://github.com/chavo1/github-randome_pet.git
 ```
--   export you GitHub token using environment variable
+2. export you GitHub token using environment variable
 ```
 export TF_VAR_github_token=<your_token>
 ```
--   go to "github-randome_pet"
+3. go to the "github-randome_pet" directory
 ```
 cd github-randome_pet
 ```
--   download required terraform _plugins_
+4. download required terraform _plugins_
 ```
 terraform init
 ```
--   create an execution plan
+5. create an execution plan
 ```
 terraform plan
 ```
--   build repo resources
+6. build repo resources
 ```
 terraform apply
 ```
--   destroy resources
+7. destroy resources
 ```
 terrform destroy
 ```
