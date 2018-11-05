@@ -11,7 +11,6 @@
 
 ```
 git clone https://github.com/chavo1/github-randome_pet.git
-
 ```
 -   download required terraform _plugins_
 ```
