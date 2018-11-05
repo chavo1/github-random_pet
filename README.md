@@ -2,7 +2,7 @@
 
 ## Requirements
 
--   terraform
+-   Terraform [Installed](https://www.terraform.io/intro/getting-started/install.html)
 -   [Personal GitHub token](https://github.com/settings/tokens)
 
 ### How to use it:
