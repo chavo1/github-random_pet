@@ -1,6 +1,6 @@
 # Sample repo with example for Terraform random_pet  and Github provider
 
-### Prerequisites
+## Requirements
 
 -   terraform
 -   [Personal GitHub token](https://github.com/settings/tokens)
@@ -20,13 +20,11 @@ terraform init
 -   export you GitHub token using environment variable
 ```
 export TF_VAR_github_token=<your_token>
-
 ```
 -   build repo resources
 ```
 terraform apply
 ```
-
 -   destroy resources
 ```
 terrform destroy
