@@ -14,6 +14,10 @@ git clone https://github.com/chavo1/github-randome_pet.git
 ```
 export TF_VAR_github_token=<your_token>
 ```
+-   go to "github-randome_pet"
+```
+cd github-randome_pet
+```
 -   download required terraform _plugins_
 ```
 terraform init
