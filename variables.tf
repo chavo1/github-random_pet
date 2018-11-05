@@ -7,7 +7,7 @@ variable "github_token" {
 # organization variable
 variable "github_organization" {
   description = "github organization"
-  default     = "chavo6"
+  default     = "chavo4"
 }
 
 # Count variable
